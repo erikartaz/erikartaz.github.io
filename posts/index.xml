@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Init</title>
+    <link>https://erikartaz.github.io/posts/</link>
+    <description>Recent content in Posts on Init</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language><atom:link href="https://erikartaz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>https://erikartaz.github.io/posts/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/posts/init/</guid>
+      <description>Questò è il primo post del mio blog</description>
+    </item>
+    
+    <item>
+      <title>Ricordi</title>
+      <link>https://erikartaz.github.io/posts/ricordi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/posts/ricordi/</guid>
+      <description>Quanti ricordi così all&amp;rsquo;improvviso nella mente</description>
+    </item>
+    
+  </channel>
+</rss>

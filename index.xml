@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Init</title>
+    <link>https://erikartaz.github.io/</link>
+    <description>Recent content on Init</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language><atom:link href="https://erikartaz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi sono</title>
+      <link>https://erikartaz.github.io/chisono/</link>
+      <pubDate>Sun, 24 Mar 2019 13:43:40 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/chisono/</guid>
+      <description>Le descrizioni di sè sono così noiose che bisognerebbe evitarle sempre, ma se sei quì è perchè qualche cosa in fondo la vuoi sapere.
+Diciamo che sono un tipo normale con una grande passione per l&amp;rsquo;informatica. Passione che mi trascino da quando avevo 12 anni e mio nonno per la cresima mi regalò un home computer. No, non il commodore64 che avevano tutti i miei amici, ma un Olivetti Prodest PC 128 per cui praticamente non esistevano giochi e quindi per forza di cose ho iniziato a &amp;ldquo;giocarci&amp;rdquo; programmando con il suo linguaggio Basic.</description>
+    </item>
+    
+    <item>
+      <title>Init</title>
+      <link>https://erikartaz.github.io/posts/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/posts/init/</guid>
+      <description>Questò è il primo post del mio blog</description>
+    </item>
+    
+    <item>
+      <title>Ricordi</title>
+      <link>https://erikartaz.github.io/posts/ricordi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/posts/ricordi/</guid>
+      <description>Quanti ricordi così all&amp;rsquo;improvviso nella mente</description>
+    </item>
+    
+  </channel>
+</rss>
