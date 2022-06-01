@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Init</title>
+    <title>init</title>
     <link>https://erikartaz.github.io/</link>
-    <description>Recent content on Init</description>
+    <description>Recent content on init</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language><atom:link href="https://erikartaz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erikartaz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ayas</title>
+      <link>https://erikartaz.github.io/fotografie/ayas/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/fotografie/ayas/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Chi sono</title>
       <link>https://erikartaz.github.io/chisono/</link>
@@ -14,6 +24,24 @@
       <guid>https://erikartaz.github.io/chisono/</guid>
       <description>Le descrizioni di sè sono così noiose che bisognerebbe evitarle sempre, ma se sei quì è perchè qualche cosa in fondo la vuoi sapere.
 Diciamo che sono un tipo normale con una grande passione per l&amp;rsquo;informatica. Passione che mi trascino da quando avevo 12 anni e mio nonno per la cresima mi regalò un home computer. No, non il commodore64 che avevano tutti i miei amici, ma un Olivetti Prodest PC 128 per cui praticamente non esistevano giochi e quindi per forza di cose ho iniziato a &amp;ldquo;giocarci&amp;rdquo; programmando con il suo linguaggio Basic.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum riassuntivo</title>
+      <link>https://erikartaz.github.io/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/cv/cv/</guid>
+      <description>CV di prova</description>
+    </item>
+    
+    <item>
+      <title>Esperienze</title>
+      <link>https://erikartaz.github.io/cv/cv_esperienze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erikartaz.github.io/cv/cv_esperienze/</guid>
+      <description>CV esteso</description>
     </item>
     
     <item>
