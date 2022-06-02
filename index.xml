@@ -32,13 +32,12 @@ Diciamo che sono un tipo normale con una grande passione per l&amp;rsquo;informa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://erikartaz.github.io/cv/cv/</guid>
-      <description>Download CV in PDF
-Contatti Telefono: 347.9394270
+      <description>Download CV  Contatti Telefono: 347.9394270
 Email: erik.artaz@gmail.com
-Indirizzo: Via Gassendi 1/A, 20155 Milano
-Obiettivi Il mio obiettivo è lavorare in una azienda che mi permetta di approfondire le mie competenze nell&amp;rsquo;amministrazione di sistemi Windows e Linux.
-Esperienze ECIT srl (1 gen 2022 - attuale)
-Mi occupo di fornire per grandi aziende attività di helpdesk classico, e con un team, attività di control room per monitorare lo stato di tutta l&amp;rsquo;infrastruttura IT di una multinazionale italiana organizzando eventualmente war room con team internazionali per gestire situazioni di emergenza.</description>
+Domicilio: Milano
+ Obiettivi Il mio obiettivo è lavorare in una azienda che mi permetta di approfondire le mie competenze nell&amp;rsquo;amministrazione di sistemi Windows e Linux.
+ Esperienze ECIT srl (1 gen 2022 - attuale)
+ Mi occupo di fornire per grandi aziende attività di helpdesk classico, e con un team, attività di control room per monitorare lo stato di tutta l&amp;rsquo;infrastruttura IT di una multinazionale italiana organizzando eventualmente war room con team internazionali per gestire situazioni di emergenza.</description>
     </item>
     
     <item>
@@ -58,15 +57,6 @@ Mi occupo di fornire per grandi aziende attività di helpdesk classico, e con un
       <guid>https://erikartaz.github.io/posts/init/</guid>
       <description>Questò è il primo post del mio blog
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Ricordi</title>
-      <link>https://erikartaz.github.io/posts/ricordi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erikartaz.github.io/posts/ricordi/</guid>
-      <description>Quanti ricordi così all&amp;rsquo;improvviso nella mente</description>
     </item>
     
   </channel>
